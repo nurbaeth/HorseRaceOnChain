@@ -8,7 +8,7 @@ No tokens, no bets — just decentralized fun for Web3 builders and curious mind
 ## 🎮 Gameplay Overview
 
 - 🧑‍🤝‍🧑 Up to **5 players** can join each race.
-- 🐴 Each player picks a horse (numbered **1 to 5**).
+- 🐴 Each player picks a horse (numbered **1 to 5**). 
 - 🏁 Once all 5 players have joined, the race **automatically starts**.
 - 🎲 A **random winner** is chosen entirely on-chain using pseudo-random logic.
 - 🔄 After the race, anyone can **reset** it for the next round.
