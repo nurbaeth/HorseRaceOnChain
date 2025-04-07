@@ -11,7 +11,7 @@ No tokens, no bets — just decentralized fun for Web3 builders and curious mind
 - 🐴 Each player picks a horse (numbered **1 to 5**). 
 - 🏁 Once all 5 players have joined, the race **automatically starts**.
 - 🎲 A **random winner** is chosen entirely on-chain using pseudo-random logic.
-- 🔄 After the race, anyone can **reset** it for the next round. 
+- 🔄 After the race, anyone can **reset** it for the next round.  
 
 > ⚠️ This game is for educational/demo purposes. Pseudo-randomness is not secure for production.
 
